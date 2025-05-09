@@ -1,9 +1,7 @@
-# bank-dashboard
-
-# My Chat Application
+# Bank Dashboard
 
 This is a real-time chat app with sentiment analysis.
 
 ## UI Preview
 
-![Chat App UI](Screenshot (35).png)
+![Chat App UI](screenshot-35.png)
